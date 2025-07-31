@@ -49,9 +49,10 @@ Giant Radio Galaxies (GRGs) are active galactic nuclei that host enormous, ~Mpc-
 - [Slides](https://docs.google.com/presentation/d/1WD_pHSzb5RbgGd2KY3c48NTCwpc8vY07Ovhze4ZpZfM/edit?usp=sharing) 
 - To produce radio [contours](./contour.py) of LOFAR image in [DS9](https://sites.google.com/cfa.harvard.edu/saoimageds9)
 - [Image Reviewer](./image_reviewer_1.py) to characterise the spectra
-- To download the SDSS spectra from the list of sources
+- To download the SDSS spectra from the list of sources - [query](./sdss_spec_query.py)
 - X-ray properties of AGN - [paper](./Ricci_2017_ApJS.pdf)
 - LOFAR [catalogue](https://arxiv.org/abs/2405.00232)
+- XSPEC [tutorial](./vignali_xspec_tutorial_aa2022-23.pdf)
 
 ---
 
